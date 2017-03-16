@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../dtd/locale.dtd">
+
+<!--
+  * locale/en_US/grid.xml
+  *
+  * Copyright (c) 2000-2011 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the en_US (English) locale.
+  *
+  * $Id$
+  -->
+
+<locale name="tr_TR" full_name="Türkiye Türkçesi">
+	<!-- Common -->
+	<message key="grid.noItems">Madde yok</message>
+	<message key="grid.settings">Ayarlar</message>
+
+	<message key="grid.action.sort">Sırala</message>
+	<message key="grid.action.addItem">Madde Ekle</message>
+	<message key="grid.action.delete">Sil</message>
+	<message key="grid.action.edit">Düzenle</message>
+	<message key="grid.action.restoreDefaults">Varsayılan ayarları geri yükle</message>
+
+	<!-- Common Grid Column Titles -->
+	<message key="grid.columns.actions">Eylemler</message>
+	<message key="grid.columns.institution">Kurum</message>
+	<message key="grid.columns.url">URL</message>
+
+	<!-- Sponsors Grid -->
+	<message key="grid.sponsor.title">Destek verenler</message>
+
+	<!-- Masthead Grid -->
+	<message key="grid.masthead.title">Yönetici Listesi</message>
+	<message key="grid.masthead.column.groups">Gruplar</message>
+
+	<!-- Contributor Grid -->
+	<message key="grid.contributor.title">Katkı veren</message>
+
+	<!-- Review Forms Grid -->
+	<message key="grid.reviewForm.title">Değerlendirme Formu</message>
+
+	<!-- Book File Types Grid -->
+	<message key="grid.bookFileType.form.sortable">Bu tip dosyaların (bölüm örneğin) bileşeni tarafından sıralanmasına izin ver</message>
+
+	<!-- Artwork Files Grid -->
+	<message key="grid.artworkFile.title">Artwork w/İzinler</message>
+	<message key="grid.artworkFile.file">Dosya</message>
+	<message key="grid.artworkFile.form.title">Ekle Artwork w/İzinler</message>
+	<message key="grid.artworkFile.form.metadata">Artwork Üstveri</message>
+	<message key="grid.artworkFile.caption">Başlık</message>
+	<message key="grid.artworkFile.credit">Kredi</message>
+	<message key="grid.artworkFile.copyrightOwner">Telif Hakkı Sahibi</message>
+	<message key="grid.artworkFile.copyrightContact">İletişim Bilgileri (yoksa yazar / basın)</message>
+	<message key="grid.artworkFile.permissionTerms">İzin Terimleri</message>
+	<message key="grid.artworkFile.permissionForm">İzin Formu</message>
+	<message key="grid.artworkFile.type">Türü</message>
+	<message key="grid.artworkFile.type.table">Tablo</message>
+	<message key="grid.artworkFile.type.figure">Şekil</message>
+	<message key="grid.artworkFile.placement">Kitaptaki Yerleşim</message>
+	<message key="grid.artworkFile.placementDetail">Tablo/Şekil. No.</message>
+	<message key="grid.artworkFile.contactAuthor">Yazarla İletişim kur</message>
+
+	<!-- Library Files -->
+	<message key="grid.libraryFiles.column.files">Dosyalar</message>
+	<message key="grid.libraryFiles.submission.title">Başvuru Kitaplığı</message>
+	<message key="grid.libraryFiles.editorial.title">Kitaplık Düzenleme</message>
+	<message key="grid.libraryFiles.review.title">Kitaplık Değerlenidir</message>
+	<message key="grid.libraryFiles.production.title">Üretim Kütüphanesi</message>
+	<message key="grid.libraryFiles.productionTemplate.title">Üretim Şablon Kitaplığı</message>
+
+	<!-- SubmissionChecklist -->
+	<message key="grid.submissionChecklist.title">Başvuru Değerlendirme Listesi</message>
+	<message key="grid.submissionChecklist.column.checklistItem">Değerlendirme Listesi Maddesi</message>
+
+	<!-- Submission Contributors -->
+	<message key="author.users.contributor.name">Adı</message>
+	<message key="author.users.contributor.email">E-posta</message>
+	<message key="author.users.contributor.role">İşlev</message>
+	<message key="author.users.contributor.principalContact">Birincil İletişim</message>
+
+	<!-- Chapters -->
+	<message key="grid.chapters.title">Bölümler</message>
+</locale>
